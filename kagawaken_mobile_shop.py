@@ -3,67 +3,67 @@ import folium
 m = folium.Map(location=[34.3481671,134.0515907],zoom_start=10)
 m
 
-folium.Marker(location=[34.3519542,134.0049933],popup='ソフトバンク+ワイモバイル イオンモール高松店　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3519542,134.0049933],popup='ソフトバンク+ワイモバイル イオンモール高松店　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3096401,133.8150539],popup='ソフトバンク+ワイモバイル 宇多津店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3096401,133.8150539],popup='ソフトバンク+ワイモバイル 宇多津店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2972481,133.9574396],popup='ソフトバンク+ワイモバイル 香川国分寺店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2972481,133.9574396],popup='ソフトバンク+ワイモバイル 香川国分寺店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.1205623,133.6796488],popup='ソフトバンク+ワイモバイル 観音寺店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.1205623,133.6796488],popup='ソフトバンク+ワイモバイル 観音寺店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3181795,133.8500959],popup='ソフトバンク+ワイモバイル 坂出店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3181795,133.8500959],popup='ソフトバンク+ワイモバイル 坂出店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2634732,134.134405],popup='ソフトバンク+ワイモバイル さぬき三木店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2634732,134.134405],popup='ソフトバンク+ワイモバイル さぬき三木店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4868958,134.1924505],popup='ソフトバンク+ワイモバイル 小豆島店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4868958,134.1924505],popup='ソフトバンク+ワイモバイル 小豆島店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2363266,133.7868781],popup='ソフトバンク+ワイモバイル 善通寺店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2363266,133.7868781],popup='ソフトバンク+ワイモバイル 善通寺店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2881078,134.0272076],popup='ソフトバンク+ワイモバイル 高松一宮店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2881078,134.0272076],popup='ソフトバンク+ワイモバイル 高松一宮店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.324088,134.0565581],popup='ソフトバンク+ワイモバイル 高松中央店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.324088,134.0565581],popup='ソフトバンク+ワイモバイル 高松中央店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3446798,134.0141165],popup='ソフトバンク+ワイモバイル 高松西店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3446798,134.0141165],popup='ソフトバンク+ワイモバイル 高松西店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.302451,134.0590432],popup='ソフトバンク+ワイモバイル 高松レインボーロード店　　　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.302451,134.0590432],popup='ソフトバンク+ワイモバイル 高松レインボーロード店　　　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.278238,134.1023662],popup='ソフトバンク+ワイモバイル 十川店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.278238,134.1023662],popup='ソフトバンク+ワイモバイル 十川店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2776618,133.7960901],popup='ソフトバンク+ワイモバイル 丸亀店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2776618,133.7960901],popup='ソフトバンク+ワイモバイル 丸亀店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2576762,133.8131932],popup='ソフトバンク+ワイモバイル 丸亀中央店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2576762,133.8131932],popup='ソフトバンク+ワイモバイル 丸亀中央店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2950505,133.8124196],popup='ソフトバンク+ワイモバイル 丸亀土器店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2950505,133.8124196],popup='ソフトバンク+ワイモバイル 丸亀土器店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.343985,134.0502988],popup='ソフトバンク+ワイモバイル 丸亀町商店街店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.343985,134.0502988],popup='ソフトバンク+ワイモバイル 丸亀町商店街店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3390635,134.1002475],popup='ソフトバンク+ワイモバイル 屋島店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3390635,134.1002475],popup='ソフトバンク+ワイモバイル 屋島店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3164443,134.0422779],popup='ソフトバンク+ワイモバイル ゆめタウン高松店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3164443,134.0422779],popup='ソフトバンク+ワイモバイル ゆめタウン高松店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2731334,133.7845352],popup='ソフトバンク+ワイモバイル ゆめタウン丸亀店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2731334,133.7845352],popup='ソフトバンク+ワイモバイル ゆめタウン丸亀店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.1456063,133.6989670],popup='ソフトバンク+ワイモバイル ゆめタウン三豊店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.1456063,133.6989670],popup='ソフトバンク+ワイモバイル ゆめタウン三豊店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
 folium.Marker(location=[34.347478,134.0669046],popup='ドコモ 朝日町店　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
